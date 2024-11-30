@@ -1,3 +1,14 @@
+//선질이가 만듦
+//선질이가 만듦
+
+//선질이가 만듦
+
+//선질이가 만듦
+
+
+
+
+
 const set_id = set_idx;
 const user_id = c_u;
 const class_id = class_idx2;
